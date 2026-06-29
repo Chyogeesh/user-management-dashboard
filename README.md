@@ -103,3 +103,6 @@ Accessibility Improvements
 ## GitHub Repository
 
 (GitHub URL)
+
+npm install
+npm run dev
