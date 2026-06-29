@@ -1,0 +1,33 @@
+Initial React Vite project setup
+
+Project folder structure
+
+Added Axios API service
+
+Implemented user fetching
+
+Added responsive user table
+
+Implemented search functionality
+
+Added sorting support
+
+Implemented filter popup
+
+Added pagination
+
+Added Add User modal
+
+Implemented Edit User functionality
+
+Added Delete confirmation dialog
+
+Added form validations
+
+Improved responsive UI
+
+Added unit tests
+
+Updated README
+
+Deployment configuration
