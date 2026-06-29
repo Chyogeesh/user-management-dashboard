@@ -1,0 +1,45 @@
+user-management-dashboard/
+
+public/
+
+src/
+
+    api/
+        userService.js
+
+    components/
+        Header.jsx
+        SearchBar.jsx
+        FilterPopup.jsx
+        UserTable.jsx
+        UserRow.jsx
+        UserForm.jsx
+        ConfirmDelete.jsx
+        Pagination.jsx
+        Loader.jsx
+        ErrorAlert.jsx
+
+    hooks/
+        useUsers.js
+
+    utils/
+        helpers.js
+        validators.js
+        constants.js
+
+    styles/
+        globals.css
+        table.css
+        modal.css
+        pagination.css
+
+    App.jsx
+    main.jsx
+
+tests/
+
+README.md
+
+package.json
+
+vite.config.js
